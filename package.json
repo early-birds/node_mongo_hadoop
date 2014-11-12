@@ -10,9 +10,9 @@
   },
   "main": "./node_mongo_hadoop",
   "dependencies": {
-    "mongodb":"*",
-    "buffers":"*",
-    "underscore":"*"
+    "mongodb": "1.4",
+    "buffers": "*",
+    "underscore": "*"
   },
   "devDependencies": {},
   "optionalDependencies": {},
